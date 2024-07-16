@@ -42,7 +42,7 @@ npm start
 ### Install client dependencies & start
 ```
 npm create-react-app <appname>
-cd client
+cd <appname>
 npm install swiper react-bootstrap bootstrap react-alice-carousel react-router-dom axios react-icons aos --save axios react-icons react-toastify -g react-scripts  eslint-config-react-app --save-dev
 npm start
 ```
