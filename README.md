@@ -9,8 +9,8 @@
 - Responsive Design: Optimized for various devices, ensuring a seamless user experience.
 
 ## Frontend:
-# Technologies Used: HTML, CSS, JavaScript, React.js, Bootstrap
-# Features:
+### Technologies Used: HTML, CSS, JavaScript, React.js, Bootstrap
+### Features:
 - Responsive and interactive user interface
 - Navigation bar for easy access to different sections
 - Forms for user registration, login
@@ -18,16 +18,16 @@
 - Community platform for user interaction
 
 ## Backend:
-# Technologies Used: Node.js, Express.js
-# Features:
+### Technologies Used: Node.js, Express.js
+### Features:
 + API endpoints for user authentication
 + Middleware for request validation and error handling
 + Database interactions using MongoDB
 + Secure data handling with JWT for authentication
   
 ## Database:
-# Database Used: MongoDB
-# Features:
+### Database Used: MongoDB
+### Features:
 + Collections for users
 + CRUD operations for managing user data 
 
