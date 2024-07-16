@@ -55,9 +55,9 @@ Open your web browser and navigate to `http://localhost:8080`
 ### User Authentication:
 #### Register a New User:
 * Endpoint: POST /api/auth/register
-* Description: Registers a new user with email and password.
-* Request Body: { "email": "user@example.com", "password": "password123" }
-* Response: { "message": "User registered successfully", "user": { "id": "userId", "email": "user@example.com" } }
+* Description: Registers a new user with name, email and password.
+* Request Body: { "name": "username", "email": "user@example.com", "password": "password123" }
+* Response: { "message": "User registered successfully", "user": { "id": "userId", "name": "username", "email": "user@example.com" } }
 
 #### Log in a User:
 * Endpoint: POST /api/auth/login
