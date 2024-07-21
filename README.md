@@ -1,4 +1,4 @@
-# MERN Tourism Website
+# MERN Tourism Website 
 
 ## Features
 - User Authentication: Secure login and registration using JWT (JSON Web Tokens).
